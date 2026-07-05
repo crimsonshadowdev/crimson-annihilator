@@ -1,0 +1,12 @@
+{
+  "name": "crimson-annihilator",
+  "version": "1.0.0",
+  "description": "CRIMSON ANNIHILATOR - Bot WhatsApp ultime",
+  "main": "crimson-annihilator.js",
+  "scripts": { "start": "node crimson-annihilator.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.16.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
