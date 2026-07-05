@@ -2,6 +2,13 @@
 
 Bot WhatsApp autonome avec QR code, pairing code, et commandes dévastatrices.
 
+## Création
+Ce bot a été créé par le clan **CRIMSON SHADOW**, développé par **BLACK SAW CRIMSON DEV**.
+
+## Liens
+- 🔗 **Chaîne WhatsApp** : [CRIMSON OFFICIAL](https://whatsapp.com/channel/0029Vb7VJKA2P591KNZnBz1G)
+- 💬 **Groupe WhatsApp** : [Rejoindre le groupe](https://chat.whatsapp.com/CIQQN32Gu825CVzI5BIWMs)
+
 ## Utilisation
 1. `npm install`
 2. `npm start`
